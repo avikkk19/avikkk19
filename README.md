@@ -1,14 +1,14 @@
 # 👋 Hello, I'm Avi
 
-Aspiring **Junior Full Stack Developer** with a passion for creating efficient, scalable, and user-friendly web applications. I enjoy working across the full stack, from designing intuitive front-end interfaces to building robust back-end systems. 
+Aspiring **Junior Full Stack Developer** with a passion for creating efficient, scalable, and user-friendly web applications. I enjoy working across the full stack, from designing intuitive front-end interfaces to building robust back-end systems.
 
 🚀 I’m always exploring new technologies and improving my coding skills. Here’s a little about me:
 
 - 🌱 I’m currently honing my skills in **Node.js, React, and MongoDB**.
 - 🔭 I’m working on building full-stack applications and improving database management with **MongoDB**.
 - 💬 Ask me about **JavaScript, CSS, Python**, or anything tech-related!
-- 📫 Reach me via [Twitter](https://twitter.com/enzofordddddd) or [LinkedIn](not yet).
-  
+- 📫 Reach me via [Twitter](https://twitter.com/enzofordddddd) or [LinkedIn](#).
+
 ## 🔧 Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
@@ -24,26 +24,19 @@ Aspiring **Junior Full Stack Developer** with a passion for creating efficient, 
 ## 📂 My Projects
 Here are a few of the projects I’ve been working on:
 
-- **[pp showcase blog]([github-link-to-project](https://github.com/avikkk19/mern-blog))**  
-  _This is my persnoal project which im currently working from past month ie. october 2024.
-  _THIS project is about a public blog which is currently under auth stage.
-  -------- STACK USED------------
-  * MERN stack ._
-  
-- **[fitfinity]([github-link-to-project](https://github.com/avikkk19/FitfinityWeb
-))**  
-  _This a an FITNESS web-app._
-  ------ html ----------
-  ------ css -----------
-  ------ javaScript ---- ._
-- **[ENZ0]([github-link-to-project](https://github.com/avikkk19/FitfinityWeb
-))**
-  _THIS is an adv F1 web_app currently running safely in netflify.
-  _ Icludes infromation all abt fromula 1.
-  ----------STACK USED------------
-  *MERN stack ._ 
+- **[PP Showcase Blog](https://github.com/avikkk19/mern-blog)**  
+  _This is my personal project, which I've been working on since October 2024. It's a public blog currently in the authentication stage._  
+  **STACK USED**: MERN stack
 
-Check out more in my [homePage]([github-link-to-project](https://github.com/avikkk19)).
+- **[Fitfinity](https://github.com/avikkk19/FitfinityWeb)**  
+  _A web app focused on fitness._  
+  **Technologies Used**: HTML, CSS, JavaScript
+
+- **[ENZ0](https://github.com/avikkk19/FitfinityWeb)**  
+  _An advanced Formula 1 web app running on Netlify. It includes information about everything Formula 1._  
+  **STACK USED**: MERN stack
+
+Check out more on my [homepage](https://github.com/avikkk19).
 
 ## 🌟 What I’m currently learning
 - Advanced **JavaScript** concepts
@@ -52,7 +45,7 @@ Check out more in my [homePage]([github-link-to-project](https://github.com/avik
 
 ## 📫 Let's Connect!
 - Twitter: [@enzofordddddd](https://twitter.com/enzofordddddd)
-- LinkedIn: [avinash](not yet)
-- Email: (avinashkamadri67@gmail.com)
+- LinkedIn: Coming soon
+- Email: [avinashkamadri67@gmail.com](mailto:avinashkamadri67@gmail.com)
 
 Thanks for stopping by! 😊
