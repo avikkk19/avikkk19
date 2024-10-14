@@ -24,16 +24,26 @@ Aspiring **Junior Full Stack Developer** with a passion for creating efficient, 
 ## 📂 My Projects
 Here are a few of the projects I’ve been working on:
 
-- **[not choosen yet](github-link-to-project)**  
+- **[pp showcase blog]([github-link-to-project](https://github.com/avikkk19/mern-blog))**  
   _This is my persnoal project which im currently working from past month ie. october 2024.
   _THIS project is about a public blog which is currently under auth stage.
   -------- STACK USED------------
-  *adv MERN stack ._
+  * MERN stack ._
   
-- **[fitfinity](github-link-to-project)**  
-  _nothoing special._
+- **[fitfinity]([github-link-to-project](https://github.com/avikkk19/FitfinityWeb
+))**  
+  _This a an FITNESS web-app._
+  ------ html ----------
+  ------ css -----------
+  ------ javaScript ---- ._
+- **[ENZ0]([github-link-to-project](https://github.com/avikkk19/FitfinityWeb
+))**
+  _THIS is an adv F1 web_app currently running safely in netflify.
+  _ Icludes infromation all abt fromula 1.
+  ----------STACK USED------------
+  *MERN stack ._ 
 
-Check out more in my [projects folder](https://github.com/avikkk19/pages/projects).
+Check out more in my [homePage]([github-link-to-project](https://github.com/avikkk19)).
 
 ## 🌟 What I’m currently learning
 - Advanced **JavaScript** concepts
