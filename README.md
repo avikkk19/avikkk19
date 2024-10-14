@@ -1,11 +1,11 @@
 # 👋 Hello, I'm Avi
 
-Aspiring **Junior Full Stack Developer** with a passion for creating efficient, scalable, and user-friendly web applications. I enjoy working across the full stack, from designing intuitive front-end interfaces to building robust back-end systems.
+Aspiring **wannabe full stack Developer** with a passion for creating efficient, scalable, and user-friendly web applications. I enjoy working across the mern stack, from designing intuitive front-end interfaces to building robust back-end systems.
 
 🚀 I’m always exploring new technologies and improving my coding skills. Here’s a little about me:
 
 - 🌱 I’m currently honing my skills in **Node.js, React, and MongoDB**.
-- 🔭 I’m working on building full-stack applications and improving database management with **MongoDB**.
+- 🔭 I’m learning on building full-stack applications and improving database management with **MongoDB**.
 - 💬 Ask me about **JavaScript, CSS, Python**, or anything tech-related!
 - 📫 Reach me via [Twitter](https://twitter.com/enzofordddddd) or [LinkedIn](#).
 
@@ -25,7 +25,7 @@ Aspiring **Junior Full Stack Developer** with a passion for creating efficient, 
 Here are a few of the projects I’ve been working on:
 
 - **[PP Showcase Blog](https://github.com/avikkk19/mern-blog)**  
-  _This is my personal project, which I've been working on since October 2024. It's a public blog currently in the authentication stage._  
+  _This is my personal project, which I've been working on. It's a public blog currently in the authentication stage._  
   **STACK USED**: MERN stack
 
 - **[Fitfinity](https://github.com/avikkk19/FitfinityWeb)**  
@@ -39,8 +39,7 @@ Here are a few of the projects I’ve been working on:
 Check out more on my [homepage](https://github.com/avikkk19).
 
 ## 🌟 What I’m currently learning
-- Advanced **JavaScript** concepts
-- Building RESTful APIs with **Node.js** and **Express**
+- Advanced **JavaScript** concepts.
 - Improving my understanding of **databases** and **cloud technologies**
 
 ## 📫 Let's Connect!
