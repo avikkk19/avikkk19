@@ -24,17 +24,13 @@ Aspiring **wannabe full stack Developer** with a passion for creating efficient,
 ## 📂 My Projects
 Here are a few of the projects I’ve been working on:
 
-- **[PP Showcase Blog](https://github.com/avikkk19/mern-blog)**  
-  _This is my personal project, which I've been working on. It's a public blog currently in the authentication stage._  
+- **[crecon](https://github.com/avikkk19/notyetnamed)**  
+  _This is my personal project, which I've been working on. It's a creators, editors,graphic designers etc other gig finders or work searchers support platform with realtime chats, blogs._  
   **STACK USED**: MERN stack
 
-- **[Fitfinity](https://github.com/avikkk19/FitfinityWeb)**  
-  _A web app focused on fitness._  
-  **Technologies Used**: HTML, CSS, JavaScript
-
-- **[ENZ0](https://github.com/avikkk19/FitfinityWeb)**  
-  _An advanced Formula 1 web app running on Netlify. It includes information about everything Formula 1._  
-  **STACK USED**: MERN stack
+- **[drunkdragon](https://github.com/avikkk19/FitfinityWeb)**  
+  _A web app purely about Formula 1._  
+  **Technologies Used**: React, tailwind,supabase as backend
 
 Check out more on my [homepage](https://github.com/avikkk19).
 
@@ -44,7 +40,7 @@ Check out more on my [homepage](https://github.com/avikkk19).
 
 ## 📫 Let's Connect!
 - Twitter: [@enzofordddddd](https://twitter.com/enzofordddddd)
-- LinkedIn: Coming soon
-- Email: [avinashkamadri67@gmail.com](mailto:avinashkamadri67@gmail.com)
+- LinkedIn: not yet
+- Email: [avinashkamadri16@gmail.com](mailto:avinashkamadri16@gmail.com)
 
 Thanks for stopping by! 😊
