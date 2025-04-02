@@ -5,7 +5,7 @@ Aspiring **wannabe full stack Developer** with a passion for creating efficient,
 🚀 I’m always exploring new technologies and improving my coding skills. Here’s a little about me:
 
 - 🌱 I’m currently honing my skills in **Node.js, React, and MongoDB**.
-- 🔭 I’m learning on building full-stack applications and improving database management with **MongoDB**.
+- 🔭 I’m learning on building full-stack applications and improving database management.
 - 💬 Ask me about **JavaScript, CSS, Python**, or anything tech-related!
 - 📫 Reach me via [Twitter](https://twitter.com/enzofordddddd) or [LinkedIn](#).
 
