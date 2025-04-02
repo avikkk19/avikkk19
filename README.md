@@ -40,7 +40,7 @@ Check out more on my [homepage](https://github.com/avikkk19).
 
 ## 📫 Let's Connect!
 - Twitter: [@enzofordddddd](https://twitter.com/enzofordddddd)
-- LinkedIn: not yet
+- LinkedIn: [https://www.linkedin.com/in/avinash-kamadri-97460b335/]
 - Email: [avinashkamadri16@gmail.com](mailto:avinashkamadri16@gmail.com)
 
 Thanks for stopping by! 😊
