@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Avi
+#  Hello, I'm Avinash
 
 Aspiring **wannabe full stack Developer** with a passion for creating efficient, scalable, and user-friendly web applications. I enjoy working across the mern stack, from designing intuitive front-end interfaces to building robust back-end systems.
 
@@ -7,7 +7,8 @@ Aspiring **wannabe full stack Developer** with a passion for creating efficient,
 - 🌱 I’m currently honing my skills in **Node.js, React, and MongoDB**.
 - 🔭 I’m learning on building full-stack applications and improving database management.
 - 💬 Ask me about **JavaScript, CSS, Python**, or anything tech-related!
-- 📫 Reach me via [Twitter](https://twitter.com/enzofordddddd) or [LinkedIn](#).
+- 📫 Reach me via [Twitter](https://twitter.com/enzofordddddd) or [LinkedIn](https://www.linkedin.com/in/avinash-kamadri-97460b335/
+).
 
 ## 🔧 Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -30,7 +31,7 @@ Here are a few of the projects I’ve been working on:
 
 - **[drunkdragon](https://github.com/avikkk19/FitfinityWeb)**  
   _A web app purely about Formula 1._  
-  **Technologies Used**: React, tailwind,supabase as backend
+  **Used**: React, tailwind,supabase as backend
 
 Check out more on my [homepage](https://github.com/avikkk19).
 
@@ -40,7 +41,7 @@ Check out more on my [homepage](https://github.com/avikkk19).
 
 ## 📫 Let's Connect!
 - Twitter: [@enzofordddddd](https://twitter.com/enzofordddddd)
-- LinkedIn: [https://www.linkedin.com/in/avinash-kamadri-97460b335/]
+- LinkedIn: https://www.linkedin.com/in/avinash-kamadri-97460b335/
 - Email: [avinashkamadri16@gmail.com](mailto:avinashkamadri16@gmail.com)
 
 Thanks for stopping by! 😊
