@@ -1,16 +1,44 @@
-#  Hello, I'm Avinash
+# 👋 Hello, I'm Avinash
 
-Aspiring **wannabe full stack Developer** with a passion for creating efficient, scalable, and user-friendly web applications. I enjoy working across the mern stack, from designing intuitive front-end interfaces to building robust back-end systems.
+Aspiring **full-stack developer** with a knack for building efficient, scalable, and user-friendly web applications. I love working across the **MERN stack**, from designing intuitive front-end interfaces to crafting robust back-end systems.
 
-🚀 I’m always exploring new technologies and improving my coding skills. Here’s a little about me:
+🚀 Always exploring new tech and leveling up my skills. Here's a bit about me:
 
-- 🌱 I’m currently honing my skills in **Node.js, React, and MongoDB**.
-- 🔭 I’m learning on building full-stack applications and improving database management.
-- 💬 Ask me about **JavaScript, CSS, Python**, or anything tech-related!
-- 📫 Reach me via [Twitter](https://twitter.com/enzofordddddd) or [LinkedIn](https://www.linkedin.com/in/avinash-kamadri-97460b335/
-).
+- 🌱 Currently sharpening my skills in **Node.js, React, and MongoDB**.
+- 🔭 Learning how to build full-stack apps and manage databases more efficiently.
+- 💬 Ask me about **JavaScript, CSS, Python**, or anything tech-related.
+- 📫 Connect with me on [Twitter](https://twitter.com/enzofordddddd) or [LinkedIn](https://www.linkedin.com/in/avinash-kamadri-97460b335/).
 
-## 🔧 Technologies & Tools
+---
+
+## 🧠 Skills & Progress
+
+### ✅ Comfortable With:
+- JavaScript (ES6+), TailwindCss, Python, Typescript, C language.
+- React & React Hooks
+- Node.js & Express
+- MongoDB & Mongoose
+- Git & GitHub version control
+- Responsive UI with Tailwind CSS
+
+### 🔧 Improving At:
+- Authentication (JWT, OAuth)
+- Backend architecture & APIs
+- MongoDB indexing & schema design
+- Clean code structure and optimization
+- Deployment (Render, Vercel, Netlify)
+
+### 🔭 Exploring:
+- WebSockets and real-time apps (used in `crecon`)
+- Supabase as an alternative backend
+- File handling & cloud storage (Cloudinary, Firebase)
+- Next.js & server components
+- Basic DevOps and CI/CD
+
+---
+
+## 🔧 Tech & Tools I Use
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -22,26 +50,36 @@ Aspiring **wannabe full stack Developer** with a passion for creating efficient,
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
 
-## 📂 My Projects
-Here are a few of the projects I’ve been working on:
+---
+
+## 📂 Projects
 
 - **[crecon](https://github.com/avikkk19/notyetnamed)**  
-  _This is my personal project, which I've been working on. It's a creators, editors,graphic designers etc other gig finders or work searchers support platform with realtime chats, blogs._  
-  **STACK USED**: MERN stack
+  A platform for creators, editors, designers, and freelancers to connect — featuring real-time chat and blogging.  
+  **Stack**: MERN (MongoDB, Express, React, Node.js)
 
-- **[drunkdragon](https://github.com/avikkk19/FitfinityWeb)**  
-  _A web app purely about Formula 1._  
-  **Used**: React, tailwind,supabase as backend
+- **[perblog](https://github.com/avikkk19/perblog)**  
+  my persnoal webiste where i share my thoughts, ideas, photography, tech and latest projets im working on.  
+  **Stack**: React, Tailwind CSS, Supabase
 
-Check out more on my [homepage](https://github.com/avikkk19).
+➡️ Check out more on my [GitHub profile](https://github.com/avikkk19)
 
-## 🌟 What I’m currently learning
-- Advanced **JavaScript** concepts.
-- Improving my understanding of **databases** and **cloud technologies**
+---
 
-## 📫 Let's Connect!
-- Twitter: [@enzofordddddd](https://twitter.com/enzofordddddd)
-- LinkedIn: https://www.linkedin.com/in/avinash-kamadri-97460b335/
-- Email: [avinashkamadri16@gmail.com](mailto:avinashkamadri16@gmail.com)
+## 📚 Currently Learning
+
+- Advanced **JavaScript,Python,Typescript** concepts
+- In-depth **database management**
+- Basics of **cloud technologies**
+
+---
+
+## 📫 Let’s Connect
+
+- 🐦 Twitter: [@enzofordddddd](https://twitter.com/enzofordddddd)  
+- 💼 LinkedIn: [Avinash Kamadri](https://www.linkedin.com/in/avinash-kamadri-97460b335/)  
+- 📧 Email: [avinashkamadri16@gmail.com](mailto:avinashkamadri16@gmail.com)
+
+---
 
 Thanks for stopping by! 😊
