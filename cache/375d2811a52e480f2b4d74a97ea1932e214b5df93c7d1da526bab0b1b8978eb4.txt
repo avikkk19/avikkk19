@@ -1,10 +1,8 @@
-This line is a comment block. Write whatever you want here.
-This line is a comment block. Write whatever you want here.
-This line is a comment block. Write whatever you want here.
-This line is a comment block. Write whatever you want here.
-This line is a comment block. Write whatever you want here.
-This line is a comment block. Write whatever you want here.
-This line is a comment block. Write whatever you want here.
+# This cache holds information about deleted repositories. The format of each line is:
+# [repository hash] [total commits] [my commits] [lines of code added] [lines of code removed]
+# The hash is a hex-encoded SHA-1 hash of the repository's URL.
+# The total commits and my commits are the respective counts of commits in the repository.
+# The lines of code added and lines of code removed are the total lines of code added and removed by all commits in the repository.
 49b5a432371b73fd9c5cba26bdc51e4959712b6ad54b2b33c7993dc0e0d0437d 11 11 326 70
 0ad2c334eef405e68a917be7801d80afed49777e9eddac1ede1073707087d435 1 1 1810 0
 ef9a29cead5cea4cec5c74c5715ac55a76f90b550ce72b89b2dd6e25108c3d13 57 0 0 0
