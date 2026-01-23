@@ -15,6 +15,28 @@ USER_NAME = os.environ['USER_NAME'] # 'Andrew6rant'
 QUERY_COUNT = {'user_getter': 0, 'follower_getter': 0, 'graph_repos_stars': 0, 'recursive_loc': 0, 'graph_commits': 0, 'loc_query': 0}
 
 
+def post_graphql(func_name, query, variables, retries=5, base_sleep_s=0.75):
+    for attempt in range(retries):
+        try:
+            request = requests.post(
+                'https://api.github.com/graphql',
+                json={'query': query, 'variables': variables},
+                headers=HEADERS,
+            )
+        except requests.RequestException:
+            request = None
+
+        if request is not None and request.status_code == 200:
+            return request
+
+        status_code = request.status_code if request is not None else None
+        if status_code in (502, 503, 504) and attempt < retries - 1:
+            time.sleep(base_sleep_s * (2 ** attempt))
+            continue
+
+        return request
+
+
 def daily_readme(birthday):
     """
     Returns the length of time since I was born
@@ -44,10 +66,12 @@ def simple_request(func_name, query, variables):
     """
     Returns a request, or raises an Exception if the response does not succeed.
     """
-    request = requests.post('https://api.github.com/graphql', json={'query': query, 'variables':variables}, headers=HEADERS)
-    if request.status_code == 200:
+    request = post_graphql(func_name, query, variables)
+    if request is not None and request.status_code == 200:
         return request
-    raise Exception(func_name, ' has failed with a', request.status_code, request.text, QUERY_COUNT)
+    status_code = request.status_code if request is not None else 'NO_RESPONSE'
+    text = request.text if request is not None else ''
+    raise Exception(func_name, ' has failed with a', status_code, text, QUERY_COUNT)
 
 
 def graph_commits(start_date, end_date):
@@ -144,14 +168,18 @@ def recursive_loc(owner, repo_name, data, cache_comment, addition_total=0, delet
         }
     }'''
     variables = {'repo_name': repo_name, 'owner': owner, 'cursor': cursor}
-    request = requests.post('https://api.github.com/graphql', json={'query': query, 'variables':variables}, headers=HEADERS) # I cannot use simple_request(), because I want to save the file before raising Exception
-    if request.status_code == 200:
+    request = post_graphql(recursive_loc.__name__, query, variables)
+    if request is not None and request.status_code == 200:
         if request.json()['data']['repository']['defaultBranchRef'] != None: # Only count commits if repo isn't empty
             return loc_counter_one_repo(owner, repo_name, data, cache_comment, request.json()['data']['repository']['defaultBranchRef']['target']['history'], addition_total, deletion_total, my_commits)
         else: return 0
     force_close_file(data, cache_comment) # saves what is currently in the file before this program crashes
+    if request is None:
+        raise Exception('recursive_loc() has failed with no response from GitHub.', QUERY_COUNT)
     if request.status_code == 403:
         raise Exception('Too many requests in a short amount of time!\nYou\'ve hit the non-documented anti-abuse limit!')
+    if request.status_code in (502, 503, 504):
+        raise Exception('recursive_loc() has failed due to a transient GitHub error. Please rerun.', request.status_code, request.text, QUERY_COUNT)
     raise Exception('recursive_loc() has failed with a', request.status_code, request.text, QUERY_COUNT)
 
 
@@ -447,7 +475,7 @@ if __name__ == '__main__':
     user_data, user_time = perf_counter(user_getter, USER_NAME)
     OWNER_ID, acc_date = user_data
     formatter('account data', user_time)
-    age_data, age_time = perf_counter(daily_readme, datetime.datetime(2002, 7, 5))
+    age_data, age_time = perf_counter(daily_readme, datetime.datetime(2004, 11, 21))
     formatter('age calculation', age_time)
     total_loc, loc_time = perf_counter(loc_query, ['OWNER', 'COLLABORATOR', 'ORGANIZATION_MEMBER'], 7)
     formatter('LOC (cached)', loc_time) if total_loc[-1] else formatter('LOC (no cache)', loc_time)
