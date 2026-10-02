@@ -12,6 +12,27 @@
   <a href="https://x.com/enzofordddddd">x.com</a>
 </p>
 
+### `> cat about.md`
+
+I'm a full-stack developer. Most of my time goes into web apps: screens and dashboards on the front end, APIs and databases on the back end.
+
+Along the way I've worked on login, file uploads, background jobs, database migrations and deploys, and a few features that use AI. I like making everyday work tools simpler to use.
+
+Off the clock I'm watching F1 and cruising Mexico in Forza Horizon.
+
+### `> ls what-i-know/`
+
+| Area | What | Tools |
+| --- | --- | --- |
+| frontend | Dashboards, forms and user flows | Next.js |
+| backend | APIs and service logic | NestJS |
+| backend | Background jobs | NestJS · Docker |
+| data | Tables and migrations | PostgreSQL · Prisma |
+| infra | Containers and deploys | Docker · AWS |
+| product | Login and file uploads | auth · storage |
+| ai | A few AI-assisted features | ML Agents |
+| off the clock | F1 and Forza Horizon | weekends |
+
 ### `> cat now.md`
 
 - Building web apps, front end and back end
